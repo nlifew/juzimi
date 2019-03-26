@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+    <SeekBar
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/dialog_seekbar_seek"
+        android:layout_height="match_parent" />
+    <TextView
+        android:maxLines="1"
+        android:id="@+id/dialog_seekbar_value"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="?android:attr/textColorPrimary"
+        tools:text="0"/>
+    <TextView
+        android:id="@+id/dialog_seekbar_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:maxLines="1"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="?android:attr/textColorSecondary"
+        tools:text="unit"/>
+</LinearLayout>

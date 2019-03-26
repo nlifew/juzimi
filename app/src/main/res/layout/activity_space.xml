@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_space"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.nlifew.juzimi.ui.space.SpaceActivity">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/activity_space_appBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+        <ImageView
+            android:id="@+id/activity_space_bg"
+            android:src="@drawable/ic_easter_egg"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <TextView
+            android:id="@+id/activity_space_title"
+            android:gravity="center_vertical"
+            android:layout_marginStart="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <android.support.design.widget.TabLayout
+            android:id="@+id/activity_space_tab"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            app:tabIndicatorColor="@color/tabIndicatorColor"
+            app:tabSelectedTextColor="@color/tabSelectedTextColor"
+            app:tabIndicatorHeight="3dp" />
+        <android.support.v4.view.ViewPager
+            android:id="@+id/activity_space_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <cn.nlifew.support.widget.CircleImageView
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="30dp"
+        android:src="@drawable/ic_head_default"
+        android:id="@+id/activity_space_head"
+        app:layout_anchor="@id/activity_space_bg"
+        app:layout_anchorGravity="bottom|start"/>
+</android.support.design.widget.CoordinatorLayout>

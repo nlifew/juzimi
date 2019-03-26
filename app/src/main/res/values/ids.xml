@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view_tag_1" type="id" />
+    <item name="activity_search_item" type="id" />
+    <item name="fragment_category_detail_desc" type="id" />
+</resources>

@@ -1,0 +1,10 @@
+
+{
+    "app": {
+        "version":      1,
+        "changelog":    "first version",
+        "force":        false,
+        "link":         "null"
+    }
+}
+
