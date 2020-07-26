@@ -1,0 +1,69 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\Nlifew\\Desktop\\juzimi",
+      "sdkFolder": "E:\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\build\\intermediates",
+      "gradleModulePathName": ":xjuzimi",
+      "moduleRootFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi",
+      "makeFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\Nlifew\\Desktop\\juzimi\\.cxx",
+      "cxxFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx",
+      "ndkFolder": "E:\\sdk\\ndk-bundle",
+      "ndkVersion": "18.1.5063045",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-fvisibility\u003dhidden -fvisibility-inlines-hidden -O2"
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "E:\\sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "E:\\sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\CMakeLists.txt",
+    "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gumbo-Debug-arm64-v8a": {
+      "artifactName": "gumbo",
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\" gumbo",
+      "abi": "arm64-v8a",
+      "output": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\\gumbo\\libgumbo.a"
+    },
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\.cxx\\cmake\\debug\\arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}

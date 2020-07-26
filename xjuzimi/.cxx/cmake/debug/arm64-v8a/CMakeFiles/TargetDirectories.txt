@@ -1,0 +1,6 @@
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/gumbo/CMakeFiles/gumbo.dir
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/gumbo/CMakeFiles/edit_cache.dir
+E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a/gumbo/CMakeFiles/rebuild_cache.dir

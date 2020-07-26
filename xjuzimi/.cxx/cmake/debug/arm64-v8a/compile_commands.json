@@ -1,0 +1,79 @@
+[
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem E:/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem E:/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -fvisibility=hidden -fvisibility-inlines-hidden -O2 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\html.cpp.o -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\html.cpp",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\html.cpp"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem E:/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem E:/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -fvisibility=hidden -fvisibility-inlines-hidden -O2 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\attribute.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\attribute.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\attribute.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\char_ref.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\char_ref.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\char_ref.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\error.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\error.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\error.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\parser.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\parser.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\parser.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\string_buffer.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\string_buffer.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\string_buffer.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\string_piece.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\string_piece.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\string_piece.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\tag.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\tag.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\tag.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\tokenizer.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\tokenizer.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\tokenizer.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\utf8.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\utf8.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\utf8.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\util.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\util.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\util.c"
+},
+
+{
+  "directory": "E:/Nlifew/Desktop/juzimi/xjuzimi/.cxx/cmake/debug/arm64-v8a",
+  "command": "E:\\sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android23 --gcc-toolchain=E:/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/ndk-bundle/sysroot   -isystem E:/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o gumbo\\CMakeFiles\\gumbo.dir\\vector.c.o   -c E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\vector.c",
+  "file": "E:\\Nlifew\\Desktop\\juzimi\\xjuzimi\\src\\main\\cpp\\gumbo\\vector.c"
+}
+]
